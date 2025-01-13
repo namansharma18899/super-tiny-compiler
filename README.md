@@ -44,5 +44,5 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/namansharma18899/super-tiny-compiler.git
    ```
 2. ```sh
-    python3 main.py
+   go run . 
     ```
